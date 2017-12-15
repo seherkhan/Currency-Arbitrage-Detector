@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CurrencyArbitrage_DS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CurrencyArbitrage_DS_jar</output-path>
+    <root id="archive" name="CurrencyArbitrage_DS.jar">
+      <element id="module-output" name="CurrencyArbitrage_DS" />
+    </root>
+  </artifact>
+</component>
